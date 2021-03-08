@@ -1,7 +1,5 @@
-# GENKAINET
-🌏 Another Open Network over Internet
-
-[![ci](https://github.com/shun-shobon/react-template/workflows/ci/badge.svg)](https://github.com/shun-shobon/react-template/actions?query=workflow%3Aci+branch%3Amaster)
+# genkai.cc
+🌏 GENKAINET - Another Open Network over Internet
 
 ## Repositories
 - [genkainet](https://github.com/approvers/genkainet)
