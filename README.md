@@ -1,4 +1,3 @@
-# genkai.cc
 🌏 GENKAINET - Another Open Network over Internet
 
 ## Repositories
